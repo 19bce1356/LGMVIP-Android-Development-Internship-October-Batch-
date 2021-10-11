@@ -2,8 +2,8 @@
 
 
 
-package com.monark.covis19india;
 
+package com.monark.covis19india;
 import android.content.Context;
 import android.content.Intent;
 import android.view.LayoutInflater;
