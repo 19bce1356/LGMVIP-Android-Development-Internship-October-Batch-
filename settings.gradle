@@ -1,0 +1,2 @@
+rootProject.name = "Covis19India"
+include ':app'
